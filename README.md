@@ -1,1 +1,2 @@
 # cPASS
+I work as a Research Assistant at https://cpass.ucsd.edu/. The goal of the project I'm on is to essentially learn how effective the War Powers Act is and how much Congress actually influences the President's decision to go to war. The primary method is to analyze congressional speeches according to a variety of factors. I built a classifier to determine whether or not a speech is relevant to a particular conflict and am currently working on refining a multi-label classifier to offer further specifications for all relevant speeches. 
